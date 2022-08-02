@@ -1,0 +1,174 @@
+F:\hong\ADOForm\ADOForm\bin\Debug\ADOForm.exe.config
+F:\hong\ADOForm\ADOForm\bin\Debug\ADOForm.exe
+F:\hong\ADOForm\ADOForm\bin\Debug\ADOForm.pdb
+F:\hong\ADOForm\ADOForm\bin\Debug\Oracle.DataAccess.dll
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.csprojResolveAssemblyReference.cache
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.Form1.resources
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.Cache
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.exe
+F:\hong\ADOForm\ADOForm\obj\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\bin\Debug\ADOForm.exe.config
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\bin\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\bin\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\bin\Debug\Oracle.DataAccess.dll
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.csprojResolveAssemblyReference.cache
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.Form1.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_11주차_db1_윈폼_ver1\윈폼ver1_수업예제_2013\ADOForm_oracle_ver1_수업_18\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.Cache
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\bin\Debug\ADOForm.exe.config
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\bin\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\bin\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\bin\Debug\Oracle.DataAccess.dll
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.csprojResolveAssemblyReference.cache
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.Form1.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver1_수업_18_A\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.Cache
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\bin\Debug\ADOForm.exe.config
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\bin\Debug\ADOForm.exe
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\bin\Debug\ADOForm.pdb
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\bin\Debug\Oracle.DataAccess.dll
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.csprojResolveAssemblyReference.cache
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.Form1.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.Form2.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+D:\2018_2학기\C#실습_BU\C#실습BU_18_2_수업자료\2018_2_12주차_db2_윈폼_ver2_ver3\윈폼_수업예제_ver2_ver3_2013\ADOForm_oracle_ver3_수업_18\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.Cache
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csprojAssemblyReference.cache
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CopyComplete
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+D:\bu\21_2_CS_B\21_2_CS_B_10주_DB3_대면_기획서과제O\w10_1900_ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CopyComplete
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\Users\USER\Downloads\ADOForm_ver3\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CopyComplete
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+E:\자유 장\SKY\대학교자료\2학년 2학기\C#\11주차\CSworkspace\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\ADOForm_ver4\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\ADOForm_ver4 최지연\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form4.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form4.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form6.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.main.resources
+C:\hong\C# 개인 프로젝트\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.memid.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form4.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.main.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form6.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.memid.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form4.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.main.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form6.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.memid.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe.config
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.exe
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\bin\Debug\Oracle.DataAccess.dll
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.AssemblyReference.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form1.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form2.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form3.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form4.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.main.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Form6.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.memid.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.Properties.Resources.resources
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.GenerateResource.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.csproj.CoreCompileInputs.cache
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.exe
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\obj\Debug\ADOForm.pdb
+C:\hong\이민영-C# ADDForm\C# 개인 프로젝트 최종 - 복사본 - 복사본 (2) - 복사본\ADOForm_ver3\ADOForm\bin\Debug\ADOForm.pdb
